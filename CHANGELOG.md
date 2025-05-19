@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c211225`](https://github.com/stdlib-js/stdlib/commit/c211225353b6474b34ee770eb40e91d73176ce02) - **refactor:** consolidate branching into a single line _(by Athan Reines)_
 -   [`7d6450c`](https://github.com/stdlib-js/stdlib/commit/7d6450c671dd91fffbec536a216a76f9e094dad0) - **docs:** update related packages sections [(#4186)](https://github.com/stdlib-js/stdlib/pull/4186) _(by stdlib-bot)_
 -   [`c992288`](https://github.com/stdlib-js/stdlib/commit/c99228859333cce71cb2f913aa8acb2020cda9a0) - **feat:** add `assert/is-equal-array` _(by Athan Reines)_
 
