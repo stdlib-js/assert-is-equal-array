@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@esm/index.mjs';
+import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@v0.1.0-esm/index.mjs';
 ```
 
 #### isEqualArray( v1, v2 )
@@ -85,7 +85,7 @@ bool = isEqualArray( x, [ -1.0, 2.0 ] );
 <body>
 <script type="module">
 
-import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@esm/index.mjs';
+import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@v0.1.0-esm/index.mjs';
 
 var x = [ 1.0, 2.0, 3.0 ];
 var y = [ 1.0, 2.0, 3.0 ];
