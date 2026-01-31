@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@deno/mod.js';
+import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@v0.1.0-deno/mod.js';
 ```
 
 #### isEqualArray( v1, v2 )
@@ -80,7 +80,7 @@ bool = isEqualArray( x, [ -1.0, 2.0 ] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@deno/mod.js';
+import isEqualArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-equal-array@v0.1.0-deno/mod.js';
 
 var x = [ 1.0, 2.0, 3.0 ];
 var y = [ 1.0, 2.0, 3.0 ];
