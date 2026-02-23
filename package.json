@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-assert-has-equal-values": "^0.1.0",
+    "@stdlib/array-base-assert-has-equal-values": "^0.1.1",
     "@stdlib/assert-is-array": "^0.2.3"
   },
   "devDependencies": {
